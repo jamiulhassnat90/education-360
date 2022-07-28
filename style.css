@@ -1,3 +1,5 @@
+/* Here I mainly Use media query for Responsive text in carousel for sm device */
+
 @media only screen and (max-width:688px){
     #media{
        top: 0px;
