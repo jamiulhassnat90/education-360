@@ -1,0 +1,21 @@
+@media only screen and (max-width:688px){
+    #media{
+       top: 0px;
+    }
+    #test{
+        display: none;
+    }
+    .carousel-indicators{
+        display: none;
+    }
+    .carousel-control-prev{
+        display: none;
+    }
+    .carousel-control-next {
+        display: none;
+    }
+    #image-card1{
+        width: 100%;
+        object-fit: cover;
+    }
+}
